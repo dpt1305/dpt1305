@@ -1,7 +1,9 @@
 ## Hi there 👋
+I'm currently a Backend Developer 🔭
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=tungjj)](https://git.io/streak-stats)
 <!--
-**dpt1305/dpt1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tungjj/tungjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
